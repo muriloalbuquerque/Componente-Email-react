@@ -9,7 +9,7 @@ export default function EnvioMensagem() {
     e.preventDefault();
 
     emailjs.sendForm(
-      'service_5to328f',  // Substituindo pelo seu Service ID
+      'service_21jf5xh',  // Substituindo pelo seu Service ID
       'template_yrxiqxs',  // Substituindo pelo seu Template ID
       form.current,
       'UVAftDObySZHnsyQU' // Substituindo pela sua Public Key
